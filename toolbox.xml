@@ -3,7 +3,9 @@
       <block type="ColorSelector"></block>
   </block>
   <block type="Sacar">
-      <block type="DireccionSelector"></block>
+      <block type="ColorSelector"></block>
   </block>
-  <block type="Mover"></block>
+  <block type="Mover">
+    <block type="DireccionSelector"></block>
+  </block>
 </category>
