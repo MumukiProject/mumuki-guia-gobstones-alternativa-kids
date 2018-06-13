@@ -1,5 +1,5 @@
 <gs-attire
-  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json">
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json">
 </gs-attire>
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/toolbox.xml"></gs-toolbox>
  
