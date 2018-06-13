@@ -4,6 +4,7 @@
   <block type="Mover"></block>
 </category>
 
+
 <category name="Colores, Direcciones y Números">
   <block type="ColorSelector"></block>
   <block type="DireccionSelector"></block>
