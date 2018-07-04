@@ -1,0 +1,1 @@
+`hay bolitas Rojo` es una expresión que nos afirma o niega si hay bolitas del color que le pongamos. 
