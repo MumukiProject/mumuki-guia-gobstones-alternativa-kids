@@ -1,10 +1,9 @@
 ---
 tags: []
-layout: input_bottom
-editor: code
-type: playground
+layout: input_kids
+editor: custom
+type: problem
 extra_visible: false
-language: elixir
 manual_evaluation: false
 choices: []
 name: Prueba
