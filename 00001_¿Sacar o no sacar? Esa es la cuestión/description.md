@@ -1,8 +1,7 @@
 <gs-attire
-  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json">
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json">
 </gs-attire>
-<gs-toolbox
-  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox.xml">
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/toolbox.xml">
 </gs-toolbox>
 
 Quizás recuerdes que en el primer capítulo vimos que podíamos construir programas muy distintos con solo cambiar el orden de dos comandos. Por ejemplo, no era lo mismo movernos a un casillero donde había una bolita azul y sacarla, que primero intentar sacar la bolita y luego movernos al casillero donde se encontraba (porque en ese caso hacía BOOM). :stuck_out_tongue_closed_eyes:
