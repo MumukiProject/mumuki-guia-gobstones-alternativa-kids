@@ -21,3 +21,8 @@
 <category name="Condiciones">
   <block type="hayBolitas"></block>
 </category>
+
+<category name="Operadores">
+  <block type="OperadorLogico"></block>
+  <block type="not"></block>
+</category>
