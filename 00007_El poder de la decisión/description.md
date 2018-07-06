@@ -1,3 +1,9 @@
+<gs-attire
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json">
+</gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 Como vimos, con la _estructura de control_ `repetir` podíamos decidir cuántas veces ejecutar los procedimientos; y ahora con el `si` podemos pedirle que _ejecute_ los comandos y procedimientos únicamente si _cumple_ cierta condición.
 
 Entonces podemos identificar dos partes importantes de esta estructura de control: 

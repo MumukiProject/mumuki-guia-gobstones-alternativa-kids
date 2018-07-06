@@ -1,3 +1,6 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 En el ejercicio anterior te dejamos un programa que **sacaba** una bolita roja solo **si habían** bolitas rojas.  Y eso lo logramos con una nueva **estructura de control**: el **`si`** condicional. 
 
 Como cuando decimos: "`si` tengo hambre, como algo", o "`si` tengo frío, me pongo una campera". Y lo mismo hicimos en el programa anterior: "`si hay bolitas` de color `Rojo`, entonces `sacamos` una bolita `roja`". Eso es muy distinto al **sí** _afirmativo_ que asegura algo, como por ejemplo "sí, yo lo leí". 
