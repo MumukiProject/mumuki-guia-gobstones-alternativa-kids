@@ -23,6 +23,5 @@
 </category>
 
 <category name="Operadores">
-  <block type="OperadorLogico"></block>
   <block type="not"></block>
 </category>
