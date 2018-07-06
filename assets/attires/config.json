@@ -2,12 +2,172 @@
   "enabled": true,
   "rules": [
     {
-      "when": { "blue": 0, "black": 0, "red": 0, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/pasto-01.png"
+      "when": { "blue": 0, "black": 2, "red": 2, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_2llenos-01.png"
+    },
+    {
+      "when": { "blue": 0, "black": 2, "red": 1, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_mitad_2.png"
+    },
+    {
+      "when": { "blue": 0, "black": 1, "red": 2, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_mitad.png"
+    },
+    {
+      "when": { "blue": 0, "black": 2, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_vacio.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 2, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_vacio_b.png"
     },
     {
       "when": { "blue": 0, "black": 1, "red": 0, "green": 0 },
-      "image": "http://www.gifsanimados.org/data/media/185/abeja-imagen-animada-0026.gif"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_mitad_vacio.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 1, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_mitad_vacio2.png"
+    },
+    {
+      "when": { "blue": 0, "black": 1, "red": 1, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/choc_2mitad.png"
+    },
+    {
+      "when": { "blue": 2, "black": 0, "red": 0, "green": 2 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/men_2llenos.png"
+    },
+    {
+      "when": { "blue": 1, "black": 0, "red": 0, "green": 2 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/men_lleno_mitad2.png"
+    },
+    {
+      "when": { "blue": 2, "black": 0, "red": 0, "green": 1 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/men_lleno_mitad.png"
+    },
+    {
+      "when": { "blue": 1, "black": 0, "red": 0, "green": 1 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/men_mitad.png"
+    },
+    {
+      "when": { "blue": 15, "black": 0, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/chips_mucho.png"
+    },
+    {
+      "when": { "blue": 6, "black": 0, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/chips_medio.png"
+    },
+    {
+      "when": { "blue": 3, "black": 0, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/chips_poco.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 9, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/salsa_mucho.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 6, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/salsa_medio.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 3, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/salsa_poco.png"
+    },
+    {
+      "when": { "blue": 0, "black": 3, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_vacio.png"
+    },
+    {
+      "when": { "blue": 0, "black": 4, "red": 1, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_choc.png"
+    },
+    {
+      "when": { "blue": 3, "black": 4, "red": 1, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_choc_chips.png"
+    },
+    {
+      "when": { "blue": 12, "black": 4, "red": 1, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_choc_chips2.png"
+    },
+    {
+      "when": { "blue": 0, "black": 4, "red": 7, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_choc_sal.png"
+    },
+    {
+      "when": { "blue": 12, "black": 4, "red": 7, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_choc_chips_sal.png"
+    },
+    {
+      "when": { "blue": 1, "black": 3, "red": 0, "green": 1 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_vai.png"
+    },
+    {
+      "when": { "blue": 4, "black": 3, "red": 0, "green": 1 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_vai_chips.png"
+    },
+    {
+      "when": { "blue": 13, "black": 3, "red": 0, "green": 1 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_vai_chips2.png"
+    },
+    {
+      "when": { "blue": 1, "black": 3, "red": 6, "green": 1 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_vai_sal.png"
+    },
+    {
+      "when": { "blue": 13, "black": 3, "red": 6, "green": 1 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/cu_vai_chips_sal.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_vacio.png"
+    },
+    {
+      "when": { "blue": 0, "black": 1, "red": 0, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_choc.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 1, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_fru.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 4 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_vai.png"
+    },
+    {
+      "when": { "blue": 1, "black": 0, "red": 0, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_men.png"
+    },
+    {
+      "when": { "blue": 3, "black": 1, "red": 0, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_choc_chips.png"
+    },
+    {
+      "when": { "blue": 3, "black": 0, "red": 1, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_fru_chips.png"
+    },
+    {
+      "when": { "blue": 3, "black": 0, "red": 0, "green": 4 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_vai_chips.png"
+    },
+    {
+      "when": { "blue": 4, "black": 0, "red": 0, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_men_chips.png"
+    },
+    {
+      "when": { "blue": 12, "black": 1, "red": 0, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_choc_chips2.png"
+    },
+    {
+      "when": { "blue": 12, "black": 0, "red": 1, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_fru_chips2.png"
+    },
+    {
+      "when": { "blue": 12, "black": 0, "red": 0, "green": 4 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_vai_chips2.png"
+    },
+    {
+      "when": { "blue": 13, "black": 0, "red": 0, "green": 3 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-alternativa-kids/master/assets/attires/va_men_chips2.png"
     }
   ]
 }
