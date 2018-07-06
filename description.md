@@ -1,8 +1,3 @@
-<gs-attire
-  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json">
-</gs-attire>
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/toolbox.xml"></gs-toolbox>
-
 Durante toda la vida solemos tomar decisiones en distintas situaciones. De bebés, _si_ tenemos hambre lloramos para que nos den de comer. Un poco más grandes, nos ponemos la campera _si_ sentimos frío, o nos la sacamos _cuando_ nos agarra calor. _Si_ nos aburrimos, jugamos a algo. 
 
 Pero en la programación… ¿también se pueden decidir cosas? Si en un casillero hay una bolita roja, una verde, y una azul, y queremos completarlo para tener los 4 colores de Gobstones, tendríamos que agregar una negra. ¿Pero eso cómo se hace? 
