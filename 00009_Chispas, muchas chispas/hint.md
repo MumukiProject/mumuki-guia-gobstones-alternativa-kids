@@ -1,1 +1,1 @@
-Recordá que para sacar 1 vez chips de la bandeja, teníamos que `sacar` 3 bolitas azules, y para servirlos sobre el helado debíamos `poner` 3 bolitas azules.
+Recordá que para juntar _una vez_ chips del tarro, teníamos que `sacar 3` bolitas `azules`, y para servirlos sobre el helado debíamos `poner 3` bolitas `azules`. Te servirá tener definidos los procedimientos `Juntar Chips` y `Servir Chips`. Y recordá que la estructura de control `repetir` nos puede simplificar muchos bloques. :wink:

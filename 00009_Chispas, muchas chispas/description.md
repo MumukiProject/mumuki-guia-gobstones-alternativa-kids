@@ -8,4 +8,4 @@ Como te contamos antes, dentro de la estructura de control podemos poner muchas 
 
 Veamos en qué casos nos interesaría usar una estructura de control dentro de otra. :wink: 
 
-> Modificá este programa para sacar 4 veces chips de la bandeja, para luego ponerlos en el helado. Te ayudará definir los procedimientos `Juntar Chips` y `Servir Chips` que saquen y pongan 3 bolitas azules respectivamente. 
+> Te dejamos el programa que hiciste antes. Modificalo para que ahora saque 4 veces chips del tarro, y los sirva (4 veces) en el helado.
