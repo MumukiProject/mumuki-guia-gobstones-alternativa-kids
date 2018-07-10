@@ -8,4 +8,4 @@
 
 > Modificá este programa para que, si hay helado de frutilla, además de servirlo en el vasito, le ponga chips de chocolate blanco. 
 
-> Para `Servir` los `Confites` sobre el helado tendremos que `movernos` hasta el tarro, `sacar 3` bolitas `azules` (para `Sacar Confites`), y luego volver al helado para `poner` las `3` bolitas `azules`). 
+> Para `Servir` los `Confites` sobre el helado tendremos que `movernos` hasta el tarro, `sacar 3` bolitas `azules` (para `Juntar Confites`), y luego volver al helado para `poner` las `3` bolitas `azules`). 
