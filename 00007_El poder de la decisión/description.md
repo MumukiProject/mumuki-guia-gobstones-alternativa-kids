@@ -8,7 +8,7 @@ Como vimos, con la _estructura de control_ `repetir` podíamos decidir cuántas 
 
 Entonces podemos identificar dos partes importantes de esta estructura de control: 
 
-* la **condición**, que tendrá que cumplirse o no para _decidir_ si ejecutar las _acciones_. Hasta ahora, nuestra _condición_ era que hubieran bolitas de cierto color (`hay bolitas Rojo`).
+* la **condición**, que tendrá que cumplirse o no para _decidir_ si ejecutar las _acciones_. Por ahora, nuestra _condición_ será que hayan bolitas de cierto color (`hay bolitas Rojo`).
 * las **acciones**, que son todas aquellas que queremos que se ejecuten si se cumplió la condición. Pueden ser comandos, procedimientos, o incluso otras estructuras de control. Hasta acá, nuestra acción fue sacar una bolita, _si hay_. 
 
 ¡Veamos qué otras acciones podemos realizar! :grin: ]
