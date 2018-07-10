@@ -4,7 +4,7 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-¡Venimos muy bien! :relaxed: Ya sabemos un montón de cosas sobre servir helado y toppings cuando hay, y no hacer nada cuando no hay. Pero nos gustaría poder elegir otro sabor cuando ya no queda de frutilla. 
+¡Venimos muy bien! :relaxed: Ya sabemos un montón de cosas sobre servir helado y chips de chocolate cuando hay, y no hacer nada cuando no hay. Pero nos gustaría poder elegir otro sabor cuando ya no queda de frutilla. 
 
 ¿Pero cómo preguntamos `si` **`no hay`** de frutilla? Hasta ahora, siempre nos preguntamos `si había` de frutilla, y cuando la respuesta era _"SÍ"_ ejecutábamos las acciones siguientes. 
 
