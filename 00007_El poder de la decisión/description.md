@@ -13,4 +13,4 @@ Entonces podemos identificar dos partes importantes de esta _estructura de contr
 
 ¡Veamos qué otras acciones podemos realizar! :grin:
 
-> Construí un programa para que, si hay helado de frutilla, lo saque de la bandeja y lo sirva en el vasito. 
+> Construí un `programa` para que, `si hay` helado de frutilla, lo `saque` de la bandeja y lo `sirva` en el vasito. 
