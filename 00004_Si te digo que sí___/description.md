@@ -9,4 +9,4 @@ Como cuando decimos: "`si` tengo hambre, como algo", o "`si` tengo frío, me pon
 
 ¡Ahora probalo vos para asegurarte de que funciona! :grinning: 
 
-> Modificá este `programa` para que `saque` una bolita `azul si hay`. Para que te asegures de que funciona siempre lo que hiciste, lo probaremos en dos tableros, uno donde haya bolitas y en otro tablero donde no hayan. ¡Esperemos que no se rompa! :grimacing:
+> Modificá este `programa` para que `saque` una bolita `azul si hay`. Para que te asegures de que funciona siempre lo que hiciste, lo probaremos en dos tableros, uno en donde hayan bolitas y en otro tablero donde no hayan. ¡Esperemos que no se rompa! :grimacing:
